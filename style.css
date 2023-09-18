@@ -1,0 +1,151 @@
+.board{
+    width: 900px;
+    height: 4000px;
+    justify-content: space-between;
+    display: block;
+}
+.navbar{
+    background-color: rgb(227, 227, 227);
+    flex-direction: row;
+    justify-content: flex-start;
+    display: flex;
+    height: 50px;
+    justify-content: space-around;
+    width: 1920px;
+    margin-top: 0px;
+}
+.board2{
+    display: block;
+}
+.navbar2{
+    display: flex;
+    justify-content: space-around;
+}
+.dayswhenopen{
+    display: flex;
+}
+.logo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(108, 212, 108);
+    font-size: 30px;
+    font-weight: 700;
+}
+.contph{
+    font-size: 15px;
+    font-weight: 400;
+}
+.cont{
+    background-color: rgb(255, 255, 0);
+    display: flex;
+    border-radius: 5%;
+    margin: 50px;
+    height: 700px;
+    width: 700px;
+    justify-content: space-between;
+}
+.pic{
+    height: 300px;
+}
+.fonts{
+font-size: 20px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: 300;
+}
+.catalog{
+    margin-top: 0px;
+    display: block;
+    justify-content: space-around;
+}
+.in1{
+    display: block;
+    border-radius: 5%;
+    width: 28%;
+    margin-left: 50px;
+}
+.frcat{
+    border-radius: 2.5%;
+    width: 28%;
+}
+.in1:nth-child(1){
+    background-color: deepskyblue;
+}
+.in1:nth-child(2){
+    background-color: dodgerblue;
+}
+.in1:nth-child(3){
+    background-color: deepskyblue;
+}
+html{
+    scroll-behavior: smooth;
+}
+.list{
+    display: block;
+}
+.inlist1{
+display: block;
+}
+.inlist2{
+display: block;
+}
+.inlist3{
+display: block;    
+}
+.line{
+    background-color: rgb(255, 255, 255);
+    color: rgb(106, 106, 106);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+.lineicelltp{
+    display: flex;
+    justify-content: space-around;
+}
+.list{
+    display: block;
+    justify-content: space-around;
+}
+.forwhatsite{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: dodgerblue;
+    font-weight: 400;
+}
+.twoside{
+    display: flex;
+}
+.spboard{
+    display: block;
+    margin-right: 0px;
+    justify-content: flex-end;
+}
+.des{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.a{
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.c:nth-child(1){
+    background-color: dodgerblue;
+}
+.c:nth-child(2){
+    background-color: deepskyblue;
+}
+.c:nth-child(3){
+    background-color: dodgerblue;
+}
+.c{
+    border-radius: 5%;
+    width: 200px;
+    height: 350px;
+}
+.frcat{
+    border-radius: 5%;
+}
+.ch{
+    display: flex;
+    justify-content: space-around;
+}
+.twoside{
+    display: block;
+}
+
+
